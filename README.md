@@ -1,3 +1,5 @@
 # Mein erstes Repository 
 
-29.11.2022
+- 2022-11-29 
+- 2022-11-30
+- Autorin: Anna-Leida Kornas
